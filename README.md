@@ -15,13 +15,11 @@
 <img src="https://raw.githubusercontent.com/AcarKaan78/AcarKaan78/main/assets/banner.svg?v=3" width="100%" alt="Acar Senel — Software Engineer" />
 
 <!-- ░░░ 2 · CYCLING TYPING SUBTITLE ░░░ -->
-<a href="https://acarsenel.tech">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=24&duration=2600&pause=700&color=00F0FF&center=true&vCenter=true&width=640&height=60&lines=Full-Stack+Software+Engineer+%E2%80%94+ERP+%2F+Mobile;C%23+%2F+.NET+%C2%B7+PostgreSQL+%C2%B7+Docker;Edge+Computing+Researcher+(M.Sc.);Always+shipping%2C+always+learning" alt="typing subtitle" />
-</a>
-
+<a href="https://acarsenel.tech"><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=24&duration=2600&pause=700&color=00F0FF&center=true&vCenter=true&width=640&height=42&lines=Full-Stack+Software+Engineer+%E2%80%94+ERP+%2F+Mobile;C%23+%2F+.NET+%C2%B7+PostgreSQL+%C2%B7+Docker;Edge+Computing+Researcher+(M.Sc.);Always+shipping%2C+always+learning" alt="typing subtitle" /></a>
+<br/>
 <img src="https://komarev.com/ghpvc/?username=AcarKaan78&label=PROFILE+VIEWS&color=FF2A6D&style=for-the-badge&abbreviated=false&base=0" alt="profile views" />
-
-<br/><sub><code>01000001 01000011 01000001 01010010</code> &nbsp;·&nbsp; decode me</sub>
+<br/>
+<sub><code>01000001 01000011 01000001 01010010</code></sub>
 
 </div>
 
