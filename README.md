@@ -2,30 +2,32 @@
 ═══════════════════════════════════════════════════════════════════════════════
   ADEPTUS MECHANICUS PROFILE — single coherent theme
   Palette:  Void #0d0d0d · Blood #8b0000 / #c1121f · Rust #b7410e · Amber #f0a500 · Bone #c9c9c9
-  Username wired in: AcarKaan78. Only YOUR_LINKEDIN remains to be set.
+  Fully wired: username AcarKaan78 · LinkedIn acar-kaan-senel · portfolio acarsenel.tech
 ═══════════════════════════════════════════════════════════════════════════════
 -->
 
-<!-- ░░░ 1 · WAVING GRADIENT HEADER ░░░ -->
+<!-- ░░░ 1 · WAVING + TWINKLING GRADIENT HEADER ░░░ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b0000,50:c1121f,100:f0a500&height=220&section=header&text=ACAR%20SENEL&fontColor=fff8e7&fontSize=60&fontAlignY=36&desc=%2F%2F%20MAGOS%20OF%20THE%20MACHINE-CULT%20%E2%80%A2%20FROM%20THE%20FLESH%2C%20STRENGTH%20IN%20THE%20MACHINE%20%2F%2F&descAlignY=58&descSize=16&animation=fadeIn" alt="header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b0000,50:c1121f,100:f0a500&height=220&section=header&text=ACAR%20SENEL&fontColor=fff8e7&fontSize=60&fontAlignY=36&desc=%2F%2F%20MAGOS%20OF%20THE%20MACHINE-CULT%20%E2%80%A2%20FROM%20THE%20FLESH%2C%20STRENGTH%20IN%20THE%20MACHINE%20%2F%2F&descAlignY=58&descSize=16&animation=twinkling" alt="header" width="100%" />
 
 <!-- ░░░ 2 · TYPING INTRO ░░░ -->
 <a href="https://acarsenel.tech">
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=24&duration=2800&pause=900&color=F0A500&center=true&vCenter=true&width=640&height=60&lines=%3E+Software+Engineer+%E2%80%94+ERP+%2F+B2B+%2F+Mobile;%3E+C%23+%2F+.NET+%C2%B7+PostgreSQL+%C2%B7+Docker;%3E+Edge+Computing+Researcher+(M.Sc.);%3E+Omnissiah+be+praised." alt="typing intro" />
 </a>
 
-<!-- visitor counter, top-billed -->
 <img src="https://komarev.com/ghpvc/?username=AcarKaan78&label=COGITATOR+PINGS&color=8b0000&style=for-the-badge" alt="visitors" />
 
 </div>
 
-<!-- gradient divider -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8b0000,50:c1121f,100:f0a500&height=3&section=header" width="100%" alt="divider" />
 
 <!-- ░░░ 3 · INTRO ░░░ -->
-## ⚙ &nbsp; Cogitator Online
+<div align="center">
+
+⚙ &nbsp;<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=27&duration=2500&pause=3500&color=F0A500&center=true&vCenter=true&width=480&height=42&lines=COGITATOR+ONLINE" alt="Cogitator Online" height="38" />
+
+</div>
 
 Greetings, traveler of the noosphere. I am a **software engineer** who treats systems the way the Adeptus Mechanicus treats its machines — with discipline, reverence, and an obsession for things that **do not fail in the dark**.
 
@@ -50,11 +52,11 @@ Greetings, traveler of the noosphere. I am a **software engineer** who treats sy
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8b0000,50:c1121f,100:f0a500&height=3&section=header" width="100%" alt="divider" />
 
 <!-- ░░░ 4 · TECH STACK ░░░ -->
-## 🛠 &nbsp; Sacred Rites & Machine Tongues
-
 <div align="center">
 
-<sub>**LANGUAGES & FRAMEWORKS**</sub><br/>
+🛠 &nbsp;<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=27&duration=2500&pause=3500&color=F0A500&center=true&vCenter=true&width=640&height=42&lines=SACRED+RITES+%26+MACHINE+TONGUES" alt="Sacred Rites & Machine Tongues" height="38" />
+
+<br/><sub>**LANGUAGES & FRAMEWORKS**</sub><br/>
 <img src="https://img.shields.io/badge/C%23-8b0000?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
 <img src="https://img.shields.io/badge/.NET-8b0000?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
 <img src="https://img.shields.io/badge/TypeScript-8b0000?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -79,9 +81,11 @@ Greetings, traveler of the noosphere. I am a **software engineer** who treats sy
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8b0000,50:c1121f,100:f0a500&height=3&section=header" width="100%" alt="divider" />
 
 <!-- ░░░ 5 · STREAK ░░░ -->
-## 📡 &nbsp; Cogitator Telemetry
-
 <div align="center">
+
+📡 &nbsp;<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=27&duration=2500&pause=3500&color=F0A500&center=true&vCenter=true&width=560&height=42&lines=COGITATOR+TELEMETRY" alt="Cogitator Telemetry" height="38" />
+
+<br/>
 
 <img src="https://streak-stats.demolab.com?user=AcarKaan78&hide_border=true&background=0D0D0D&stroke=8B0000&ring=C1121F&fire=F0A500&currStreakNum=F0A500&sideNums=C9C9C9&currStreakLabel=C1121F&sideLabels=C9C9C9&dates=8B7355&excludeDaysLabel=8B7355" alt="streak" height="195" />
 
@@ -89,10 +93,10 @@ Greetings, traveler of the noosphere. I am a **software engineer** who treats sy
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8b0000,50:c1121f,100:f0a500&height=3&section=header" width="100%" alt="divider" />
 
-<!-- ░░░ 7 · ACTIVITY GRAPH ░░░ -->
-## 📈 &nbsp; Cogitation Output
-
+<!-- ░░░ 6 · ACTIVITY GRAPH ░░░ -->
 <div align="center">
+
+📈 &nbsp;<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=27&duration=2500&pause=3500&color=F0A500&center=true&vCenter=true&width=520&height=42&lines=COGITATION+OUTPUT" alt="Cogitation Output" height="38" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AcarKaan78&bg_color=0d0d0d&color=f0a500&line=c1121f&point=f0a500&area=true&area_color=8b0000&hide_border=true&radius=8&custom_title=Machine-Spirit%20Activity%20%E2%80%94%20Contribution%20Log" alt="activity graph" width="100%" />
 
@@ -100,10 +104,10 @@ Greetings, traveler of the noosphere. I am a **software engineer** who treats sy
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8b0000,50:c1121f,100:f0a500&height=3&section=header" width="100%" alt="divider" />
 
-<!-- ░░░ 8 · CONTRIBUTION SNAKE ░░░ -->
-## 🐍 &nbsp; The Data Conduit
-
+<!-- ░░░ 7 · CONTRIBUTION SNAKE ░░░ -->
 <div align="center">
+
+🐍 &nbsp;<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=27&duration=2500&pause=3500&color=F0A500&center=true&vCenter=true&width=480&height=42&lines=THE+DATA+CONDUIT" alt="The Data Conduit" height="38" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/AcarKaan78/AcarKaan78/output/snake-dark.svg" />
@@ -115,15 +119,17 @@ Greetings, traveler of the noosphere. I am a **software engineer** who treats sy
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8b0000,50:c1121f,100:f0a500&height=3&section=header" width="100%" alt="divider" />
 
-<!-- ░░░ 9 · FOOTER ░░░ -->
+<!-- ░░░ 8 · FOOTER ░░░ -->
 <div align="center">
 
-### ⛧ &nbsp; Establish Cogitator Link
+⛧ &nbsp;<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=27&duration=2500&pause=3500&color=F0A500&center=true&vCenter=true&width=560&height=42&lines=ESTABLISH+COGITATOR+LINK" alt="Establish Cogitator Link" height="38" />
+
+<br/>
 
 <a href="https://acarsenel.tech">
   <img src="https://img.shields.io/badge/PORTFOLIO-acarsenel.tech-f0a500?style=for-the-badge&logo=firefoxbrowser&logoColor=0d0d0d&labelColor=8b0000" alt="portfolio" />
 </a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/acar-kaan-senel/">
   <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-8b0000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d" alt="linkedin" />
 </a>
 
