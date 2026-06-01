@@ -148,5 +148,3 @@ Greetings, traveler of the noosphere. I am a **software engineer** who treats sy
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f0a500,50:c1121f,100:8b0000&height=120&section=footer&animation=fadeIn" alt="footer" width="100%" />
 
 </div>
-
-<!-- rev: refresh profile card -->
