@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" fill="none" font-family="'Courier New', ui-monospace, monospace">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0D0208"/>
+      <stop offset="0.55" stop-color="#150111"/>
+      <stop offset="1" stop-color="#0D0208"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.42" r="0.55">
+      <stop offset="0" stop-color="#FF2A6D" stop-opacity="0.32"/>
+      <stop offset="0.55" stop-color="#FF2A6D" stop-opacity="0.06"/>
+      <stop offset="1" stop-color="#FF2A6D" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="beam" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#00F0FF" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#00F0FF" stop-opacity="0.14"/>
+      <stop offset="1" stop-color="#00F0FF" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="1" fill="#00F0FF" fill-opacity="0.05"/>
+    </pattern>
+  </defs>
+
+  <!-- base + glow -->
+  <rect width="1200" height="300" fill="url(#bg)"/>
+  <rect width="1200" height="300" fill="url(#glow)"/>
+
+  <!-- synthwave perspective grid -->
+  <g stroke="#FF2A6D" stroke-opacity="0.32" stroke-width="1">
+    <line x1="600" y1="206" x2="-220" y2="300"/>
+    <line x1="600" y1="206" x2="-40"  y2="300"/>
+    <line x1="600" y1="206" x2="150"  y2="300"/>
+    <line x1="600" y1="206" x2="330"  y2="300"/>
+    <line x1="600" y1="206" x2="475"  y2="300"/>
+    <line x1="600" y1="206" x2="600"  y2="300"/>
+    <line x1="600" y1="206" x2="725"  y2="300"/>
+    <line x1="600" y1="206" x2="870"  y2="300"/>
+    <line x1="600" y1="206" x2="1050" y2="300"/>
+    <line x1="600" y1="206" x2="1240" y2="300"/>
+    <line x1="600" y1="206" x2="1420" y2="300"/>
+  </g>
+  <g stroke="#00F0FF" stroke-opacity="0.28" stroke-width="1">
+    <line x1="0" y1="210" x2="1200" y2="210"/>
+    <line x1="0" y1="218" x2="1200" y2="218"/>
+    <line x1="0" y1="230" x2="1200" y2="230"/>
+    <line x1="0" y1="247" x2="1200" y2="247"/>
+    <line x1="0" y1="270" x2="1200" y2="270"/>
+    <line x1="0" y1="298" x2="1200" y2="298"/>
+  </g>
+
+  <!-- horizon + neon frame -->
+  <rect x="0" y="205" width="1200" height="2" fill="#FF2A6D" fill-opacity="0.85"/>
+  <rect x="0" y="0"   width="1200" height="2" fill="#00F0FF" fill-opacity="0.7"/>
+  <rect x="0" y="298" width="1200" height="2" fill="#FF2A6D" fill-opacity="0.7"/>
+
+  <!-- glitch name: cyan + magenta offset layers under a bright core -->
+  <g font-size="86" font-weight="bold" letter-spacing="12" text-anchor="middle">
+    <text x="600" y="138" fill="#00F0FF" fill-opacity="0.9">ACAR SENEL
+      <animateTransform attributeName="transform" type="translate" dur="2.8s" repeatCount="indefinite"
+        values="0 0; -4 0; 0 0; 3 0; 0 0; -2 1; 0 0; 0 0" keyTimes="0;0.04;0.09;0.16;0.22;0.5;0.55;1"/>
+    </text>
+    <text x="600" y="138" fill="#FF2A6D" fill-opacity="0.9">ACAR SENEL
+      <animateTransform attributeName="transform" type="translate" dur="2.8s" repeatCount="indefinite"
+        values="0 0; 4 0; 0 0; -3 0; 0 0; 2 -1; 0 0; 0 0" keyTimes="0;0.04;0.09;0.16;0.22;0.5;0.55;1"/>
+    </text>
+    <text x="600" y="138" fill="#F5FAFF">ACAR SENEL</text>
+  </g>
+
+  <!-- subtitle + blinking cursor -->
+  <text x="592" y="180" text-anchor="middle" font-size="16" letter-spacing="5" fill="#00F0FF" fill-opacity="0.88">// SOFTWARE ENGINEER · ERP · B2B · MOBILE · CLOUD</text>
+  <rect x="864" y="168" width="10" height="15" fill="#FCEE0A">
+    <animate attributeName="opacity" values="1;1;0;0" dur="1.05s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- moving scan beam -->
+  <rect x="0" y="-44" width="1200" height="44" fill="url(#beam)">
+    <animate attributeName="y" values="-44;300" dur="5.5s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- scanline overlay -->
+  <rect width="1200" height="300" fill="url(#scan)"/>
+</svg>
