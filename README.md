@@ -110,7 +110,7 @@ I'm a **software engineer** focused on building reliable **ERP / B2B platforms a
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=28&duration=2000&pause=800&color=FF2A6D&center=true&vCenter=true&width=480&height=44&lines=%24+.%2Fsnake.sh" alt="$ ./snake.sh" />
 
-<img src="https://raw.githubusercontent.com/AcarKaan78/AcarKaan78/output/github-contribution-grid-snake-dark.svg?v=neon" alt="contribution snake" width="100%" />
+<img src="https://raw.githubusercontent.com/AcarKaan78/AcarKaan78/output/github-contribution-grid-snake-dark.svg?v=neon2" alt="contribution snake" width="100%" />
 
 </div>
 
