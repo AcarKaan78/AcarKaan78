@@ -1,113 +1,113 @@
 <!--
 ═══════════════════════════════════════════════════════════════════════════════
-  ADEPTUS MECHANICUS PROFILE — single coherent theme
-  Palette:  Void #0d0d0d · Blood #8b0000 / #c1121f · Rust #b7410e · Amber #f0a500 · Bone #c9c9c9
-  Fully wired: username AcarKaan78 · LinkedIn acar-kaan-senel · portfolio acarsenel.tech
+  PROFILE README — Tokyo Night theme (single coherent palette)
+  Base #1a1b26 · Panel #24283b · Text #c0caf5 · Blue #7aa2f7 · Purple #bb9af7 · Cyan #7dcfff · Muted #565f89
+  Wired: username AcarKaan78 · LinkedIn acar-kaan-senel · portfolio acarsenel.tech
 ═══════════════════════════════════════════════════════════════════════════════
 -->
 
-<!-- ░░░ 1 · WAVING + TWINKLING GRADIENT HEADER ░░░ -->
+<!-- ░░░ 1 · WAVING + TWINKLING HEADER ░░░ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b0000,50:c1121f,100:f0a500&height=220&section=header&text=ACAR%20SENEL&fontColor=fff8e7&fontSize=60&fontAlignY=36&desc=%2F%2F%20MAGOS%20OF%20THE%20MACHINE-CULT%20%E2%80%A2%20FROM%20THE%20FLESH%2C%20STRENGTH%20IN%20THE%20MACHINE%20%2F%2F&descAlignY=58&descSize=16&animation=twinkling" alt="header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:bb9af7,100:7dcfff&height=220&section=header&text=ACAR%20SENEL&fontColor=16161e&fontSize=60&fontAlignY=36&desc=%2F%2F%20SOFTWARE%20ENGINEER%20%C2%B7%20ERP%20%26%20B2B%20SYSTEMS%20%C2%B7%20MOBILE%20%C2%B7%20CLOUD%20%2F%2F&descAlignY=58&descSize=16&animation=twinkling" alt="header" width="100%" />
 
-<!-- ░░░ 2 · TYPING INTRO ░░░ -->
+<!-- ░░░ 2 · CYCLING TYPING SUBTITLE ░░░ -->
 <a href="https://acarsenel.tech">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=24&duration=2800&pause=900&color=F0A500&center=true&vCenter=true&width=640&height=60&lines=%3E+Software+Engineer+%E2%80%94+ERP+%2F+B2B+%2F+Mobile;%3E+C%23+%2F+.NET+%C2%B7+PostgreSQL+%C2%B7+Docker;%3E+Edge+Computing+Researcher+(M.Sc.);%3E+Omnissiah+be+praised." alt="typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=24&duration=2600&pause=700&color=7DCFFF&center=true&vCenter=true&width=640&height=60&lines=Software+Engineer+%E2%80%94+ERP+%2F+B2B+%2F+Mobile;C%23+%2F+.NET+%C2%B7+PostgreSQL+%C2%B7+Docker;Edge+Computing+Researcher+(M.Sc.);Always+shipping%2C+always+learning" alt="typing subtitle" />
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=AcarKaan78&label=COGITATOR+PINGS&color=8b0000&style=for-the-badge" alt="visitors" />
+<img src="https://komarev.com/ghpvc/?username=AcarKaan78&label=PROFILE+VIEWS&color=7aa2f7&style=for-the-badge" alt="profile views" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8b0000,50:c1121f,100:f0a500&height=3&section=header" width="100%" alt="divider" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:bb9af7,100:7dcfff&height=48&section=header" width="100%" alt="divider" />
 
-<!-- ░░░ 3 · INTRO ░░░ -->
+<!-- ░░░ 3 · ABOUT ░░░ -->
 <div align="center">
 
-⚙ &nbsp;<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=27&duration=2500&pause=3500&color=F0A500&center=true&vCenter=true&width=480&height=42&lines=COGITATOR+ONLINE" alt="Cogitator Online" height="38" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=28&duration=2000&pause=800&color=7AA2F7&center=true&vCenter=true&width=480&height=44&lines=%24+whoami" alt="$ whoami" />
 
 </div>
 
-Greetings, traveler of the noosphere. I am a **software engineer** who treats systems the way the Adeptus Mechanicus treats its machines — with discipline, reverence, and an obsession for things that **do not fail in the dark**.
+I'm a **software engineer** focused on building reliable **ERP / B2B platforms and mobile apps** that hold up in production — and an **M.Sc. Computer Science** student researching edge computing.
 
-- 🔩 &nbsp; By day I forge **ERP / B2B platforms & mobile applications** in **C#/.NET**, atop **PostgreSQL**, containerized with **Docker**, and consecrated across **AWS** and **Azure**.
-- 📡 &nbsp; By night I pursue an **M.Sc. in Computer Science**, researching **edge computing & VM scheduling** — teaching machine spirits to think closer to where the work happens.
-- 🛠 &nbsp; I believe in clean architecture, observable systems, and code that survives contact with production.
-- 🌐 &nbsp; Forge-shrine → **[acarsenel.tech](https://acarsenel.tech)**
+- 🔧 &nbsp; Building backends & apps with **C#/.NET**, **PostgreSQL**, **Docker**, deployed on **AWS** & **Azure**.
+- 🎓 &nbsp; **M.Sc. Computer Science** — researching **edge computing & VM scheduling**.
+- 🧠 &nbsp; Big on clean architecture, observability, and code that survives production.
+- 🌐 &nbsp; Portfolio → **[acarsenel.tech](https://acarsenel.tech)**
 
 ```json
 {
-  "designation":      "Magos Errant of the Machine-Cult",
-  "primary_directive": "Forge resilient ERP / B2B & mobile systems",
-  "core_rites":       ["C#/.NET", "PostgreSQL", "Docker", "React Native"],
-  "cloud_temples":    ["AWS", "Azure"],
-  "current_quest":    "M.Sc. CS — Edge Computing & VM Scheduling thesis",
-  "creed":            "The flesh is weak; the code is eternal."
+  "role":        "Software Engineer — ERP / B2B & Mobile",
+  "stack":       ["C#/.NET", "PostgreSQL", "Docker", "React Native"],
+  "cloud":       ["AWS", "Azure"],
+  "researching": "Edge Computing & VM Scheduling (M.Sc.)",
+  "focus":       "clean architecture · observability · reliability",
+  "portfolio":   "https://acarsenel.tech"
 }
 ```
 
-> *“From the weakness of the mind, Omnissiah save us. From the lies of the Antipath, circuit preserve us. From the rage of the Beast, iron protect us.”*
+> *“Make it work, make it right, make it fast.”* — Kent Beck
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8b0000,50:c1121f,100:f0a500&height=3&section=header" width="100%" alt="divider" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dcfff,50:bb9af7,100:7aa2f7&height=48&section=header" width="100%" alt="divider" />
 
 <!-- ░░░ 4 · TECH STACK ░░░ -->
 <div align="center">
 
-🛠 &nbsp;<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=27&duration=2500&pause=3500&color=F0A500&center=true&vCenter=true&width=640&height=42&lines=SACRED+RITES+%26+MACHINE+TONGUES" alt="Sacred Rites & Machine Tongues" height="38" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=28&duration=2000&pause=800&color=7AA2F7&center=true&vCenter=true&width=520&height=44&lines=%24+cat+tech-stack.md" alt="$ cat tech-stack.md" />
 
 <br/><sub>**LANGUAGES & FRAMEWORKS**</sub><br/>
-<img src="https://img.shields.io/badge/C%23-8b0000?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
-<img src="https://img.shields.io/badge/.NET-8b0000?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
-<img src="https://img.shields.io/badge/TypeScript-8b0000?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/React%20Native-8b0000?style=for-the-badge&logo=react&logoColor=white" alt="React Native" />
+<img src="https://img.shields.io/badge/C%23-7aa2f7?style=for-the-badge&logo=csharp&logoColor=16161e" alt="C#" />
+<img src="https://img.shields.io/badge/.NET-7aa2f7?style=for-the-badge&logo=dotnet&logoColor=16161e" alt=".NET" />
+<img src="https://img.shields.io/badge/TypeScript-7aa2f7?style=for-the-badge&logo=typescript&logoColor=16161e" alt="TypeScript" />
+<img src="https://img.shields.io/badge/React%20Native-7aa2f7?style=for-the-badge&logo=react&logoColor=16161e" alt="React Native" />
 
 <br/><sub>**DATA & PERSISTENCE**</sub><br/>
-<img src="https://img.shields.io/badge/PostgreSQL-b7410e?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/Redis-b7410e?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+<img src="https://img.shields.io/badge/PostgreSQL-bb9af7?style=for-the-badge&logo=postgresql&logoColor=16161e" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Redis-bb9af7?style=for-the-badge&logo=redis&logoColor=16161e" alt="Redis" />
 
-<br/><sub>**FORGE & DEVOPS**</sub><br/>
-<img src="https://img.shields.io/badge/Docker-1f1f1f?style=for-the-badge&logo=docker&logoColor=f0a500" alt="Docker" />
-<img src="https://img.shields.io/badge/Linux-1f1f1f?style=for-the-badge&logo=linux&logoColor=f0a500" alt="Linux" />
-<img src="https://img.shields.io/badge/Git-1f1f1f?style=for-the-badge&logo=git&logoColor=f0a500" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub%20Actions-1f1f1f?style=for-the-badge&logo=githubactions&logoColor=f0a500" alt="GitHub Actions" />
+<br/><sub>**DEVOPS & TOOLING**</sub><br/>
+<img src="https://img.shields.io/badge/Docker-24283b?style=for-the-badge&logo=docker&logoColor=7dcfff" alt="Docker" />
+<img src="https://img.shields.io/badge/Linux-24283b?style=for-the-badge&logo=linux&logoColor=7dcfff" alt="Linux" />
+<img src="https://img.shields.io/badge/Git-24283b?style=for-the-badge&logo=git&logoColor=7dcfff" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-24283b?style=for-the-badge&logo=githubactions&logoColor=7dcfff" alt="GitHub Actions" />
 
-<br/><sub>**CLOUD TEMPLES**</sub><br/>
-<img src="https://img.shields.io/badge/AWS-f0a500?style=for-the-badge&logo=amazonwebservices&logoColor=0d0d0d" alt="AWS" />
-<img src="https://img.shields.io/badge/Azure-f0a500?style=for-the-badge&logo=microsoftazure&logoColor=0d0d0d" alt="Azure" />
+<br/><sub>**CLOUD**</sub><br/>
+<img src="https://img.shields.io/badge/AWS-7dcfff?style=for-the-badge&logo=amazonwebservices&logoColor=16161e" alt="AWS" />
+<img src="https://img.shields.io/badge/Azure-7dcfff?style=for-the-badge&logo=microsoftazure&logoColor=16161e" alt="Azure" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8b0000,50:c1121f,100:f0a500&height=3&section=header" width="100%" alt="divider" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:bb9af7,100:7dcfff&height=48&section=header" width="100%" alt="divider" />
 
-<!-- ░░░ 5 · STREAK ░░░ -->
+<!-- ░░░ 5 · STATS / STREAK ░░░ -->
 <div align="center">
 
-📡 &nbsp;<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=27&duration=2500&pause=3500&color=F0A500&center=true&vCenter=true&width=560&height=42&lines=COGITATOR+TELEMETRY" alt="Cogitator Telemetry" height="38" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=28&duration=2000&pause=800&color=7AA2F7&center=true&vCenter=true&width=520&height=44&lines=%24+git+--stats" alt="$ git --stats" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=AcarKaan78&hide_border=true&background=0D0D0D&stroke=8B0000&ring=C1121F&fire=F0A500&currStreakNum=F0A500&sideNums=C9C9C9&currStreakLabel=C1121F&sideLabels=C9C9C9&dates=8B7355&excludeDaysLabel=8B7355" alt="streak" height="195" />
+<img src="https://streak-stats.demolab.com?user=AcarKaan78&hide_border=true&background=1A1B26&stroke=24283B&ring=7AA2F7&fire=BB9AF7&currStreakNum=7DCFFF&sideNums=C0CAF5&currStreakLabel=7AA2F7&sideLabels=7AA2F7&dates=565F89&excludeDaysLabel=565F89" alt="streak" height="195" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8b0000,50:c1121f,100:f0a500&height=3&section=header" width="100%" alt="divider" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dcfff,50:bb9af7,100:7aa2f7&height=48&section=header" width="100%" alt="divider" />
 
 <!-- ░░░ 6 · ACTIVITY GRAPH ░░░ -->
 <div align="center">
 
-📈 &nbsp;<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=27&duration=2500&pause=3500&color=F0A500&center=true&vCenter=true&width=520&height=42&lines=COGITATION+OUTPUT" alt="Cogitation Output" height="38" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=28&duration=2000&pause=800&color=7AA2F7&center=true&vCenter=true&width=520&height=44&lines=%24+git+log+--graph" alt="$ git log --graph" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AcarKaan78&bg_color=0d0d0d&color=f0a500&line=c1121f&point=f0a500&area=true&area_color=8b0000&hide_border=true&radius=8&custom_title=Machine-Spirit%20Activity%20%E2%80%94%20Contribution%20Log" alt="activity graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AcarKaan78&bg_color=1a1b26&color=7dcfff&line=7aa2f7&point=bb9af7&area=true&area_color=7aa2f7&hide_border=true&radius=8&custom_title=Contribution%20Activity" alt="activity graph" width="100%" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8b0000,50:c1121f,100:f0a500&height=3&section=header" width="100%" alt="divider" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:bb9af7,100:7dcfff&height=48&section=header" width="100%" alt="divider" />
 
 <!-- ░░░ 7 · CONTRIBUTION SNAKE ░░░ -->
 <div align="center">
 
-🐍 &nbsp;<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=27&duration=2500&pause=3500&color=F0A500&center=true&vCenter=true&width=480&height=42&lines=THE+DATA+CONDUIT" alt="The Data Conduit" height="38" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=28&duration=2000&pause=800&color=7AA2F7&center=true&vCenter=true&width=480&height=44&lines=%24+.%2Fsnake.sh" alt="$ ./snake.sh" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/AcarKaan78/AcarKaan78/output/snake-dark.svg" />
@@ -117,25 +117,25 @@ Greetings, traveler of the noosphere. I am a **software engineer** who treats sy
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8b0000,50:c1121f,100:f0a500&height=3&section=header" width="100%" alt="divider" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dcfff,50:bb9af7,100:7aa2f7&height=48&section=header" width="100%" alt="divider" />
 
-<!-- ░░░ 8 · FOOTER ░░░ -->
+<!-- ░░░ 8 · CONNECT / FOOTER ░░░ -->
 <div align="center">
 
-⛧ &nbsp;<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=27&duration=2500&pause=3500&color=F0A500&center=true&vCenter=true&width=560&height=42&lines=ESTABLISH+COGITATOR+LINK" alt="Establish Cogitator Link" height="38" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=28&duration=2000&pause=800&color=7AA2F7&center=true&vCenter=true&width=520&height=44&lines=%24+.%2Fconnect.sh" alt="$ ./connect.sh" />
 
 <br/>
 
 <a href="https://acarsenel.tech">
-  <img src="https://img.shields.io/badge/PORTFOLIO-acarsenel.tech-f0a500?style=for-the-badge&logo=firefoxbrowser&logoColor=0d0d0d&labelColor=8b0000" alt="portfolio" />
+  <img src="https://img.shields.io/badge/PORTFOLIO-acarsenel.tech-7aa2f7?style=for-the-badge&logo=firefoxbrowser&logoColor=16161e&labelColor=24283b" alt="portfolio" />
 </a>
 <a href="https://www.linkedin.com/in/acar-kaan-senel/">
-  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-8b0000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d" alt="linkedin" />
+  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-7dcfff?style=for-the-badge&logo=linkedin&logoColor=16161e&labelColor=24283b" alt="linkedin" />
 </a>
 
 <br/><br/>
-<sub><i>“We are the Machine. We are the Forge. We are eternal.”</i> &nbsp;•&nbsp; <b>Omnissiah be praised.</b></sub>
+<sub><i>Thanks for stopping by — let's build something that lasts.</i></sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f0a500,50:c1121f,100:8b0000&height=120&section=footer&animation=fadeIn" alt="footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dcfff,50:bb9af7,100:7aa2f7&height=120&section=footer&animation=twinkling" alt="footer" width="100%" />
 
 </div>
