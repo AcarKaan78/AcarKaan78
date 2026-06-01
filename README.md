@@ -9,7 +9,7 @@
 <!-- ░░░ 1 · WAVING + TWINKLING HEADER ░░░ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:bb9af7,100:7dcfff&height=220&section=header&text=ACAR%20SENEL&fontColor=16161e&fontSize=60&fontAlignY=36&desc=%2F%2F%20SOFTWARE%20ENGINEER%20%C2%B7%20ERP%20%26%20B2B%20SYSTEMS%20%C2%B7%20MOBILE%20%C2%B7%20CLOUD%20%2F%2F&descAlignY=58&descSize=16&animation=twinkling" alt="header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:bb9af7,100:7dcfff&height=220&section=header&text=ACAR%20SENEL&fontColor=16161e&fontSize=60&fontAlignY=36&desc=%2F%2F%20SOFTWARE%20ENGINEER%20%C2%B7%20ERP%20%26%20B2B%20SYSTEMS%20%C2%B7%20MOBILE%20%C2%B7%20CLOUD%20%2F%2F&descAlignY=58&descSize=16" alt="header" width="100%" />
 
 <!-- ░░░ 2 · CYCLING TYPING SUBTITLE ░░░ -->
 <a href="https://acarsenel.tech">
@@ -20,7 +20,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:bb9af7,100:7dcfff&height=48&section=header" width="100%" alt="divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7aa2f7,50:bb9af7,100:7dcfff&height=2&section=header" width="100%" alt="divider" />
 
 <!-- ░░░ 3 · ABOUT ░░░ -->
 <div align="center">
@@ -49,7 +49,7 @@ I'm a **software engineer** focused on building reliable **ERP / B2B platforms a
 
 > *“Make it work, make it right, make it fast.”* — Kent Beck
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dcfff,50:bb9af7,100:7aa2f7&height=48&section=header" width="100%" alt="divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7aa2f7,50:bb9af7,100:7dcfff&height=2&section=header" width="100%" alt="divider" />
 
 <!-- ░░░ 4 · TECH STACK ░░░ -->
 <div align="center">
@@ -78,7 +78,7 @@ I'm a **software engineer** focused on building reliable **ERP / B2B platforms a
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:bb9af7,100:7dcfff&height=48&section=header" width="100%" alt="divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7aa2f7,50:bb9af7,100:7dcfff&height=2&section=header" width="100%" alt="divider" />
 
 <!-- ░░░ 5 · STATS / STREAK ░░░ -->
 <div align="center">
@@ -91,7 +91,7 @@ I'm a **software engineer** focused on building reliable **ERP / B2B platforms a
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dcfff,50:bb9af7,100:7aa2f7&height=48&section=header" width="100%" alt="divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7aa2f7,50:bb9af7,100:7dcfff&height=2&section=header" width="100%" alt="divider" />
 
 <!-- ░░░ 6 · ACTIVITY GRAPH ░░░ -->
 <div align="center">
@@ -102,7 +102,7 @@ I'm a **software engineer** focused on building reliable **ERP / B2B platforms a
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:bb9af7,100:7dcfff&height=48&section=header" width="100%" alt="divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7aa2f7,50:bb9af7,100:7dcfff&height=2&section=header" width="100%" alt="divider" />
 
 <!-- ░░░ 7 · CONTRIBUTION SNAKE ░░░ -->
 <div align="center">
@@ -110,14 +110,14 @@ I'm a **software engineer** focused on building reliable **ERP / B2B platforms a
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=28&duration=2000&pause=800&color=7AA2F7&center=true&vCenter=true&width=480&height=44&lines=%24+.%2Fsnake.sh" alt="$ ./snake.sh" />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/AcarKaan78/AcarKaan78/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AcarKaan78/AcarKaan78/output/snake.svg" />
-  <img src="https://raw.githubusercontent.com/AcarKaan78/AcarKaan78/output/snake-dark.svg" alt="contribution snake" width="100%" />
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/AcarKaan78/AcarKaan78/output/snake-dark.svg?v=tn1" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AcarKaan78/AcarKaan78/output/snake.svg?v=tn1" />
+  <img src="https://raw.githubusercontent.com/AcarKaan78/AcarKaan78/output/snake-dark.svg?v=tn1" alt="contribution snake" width="100%" />
 </picture>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dcfff,50:bb9af7,100:7aa2f7&height=48&section=header" width="100%" alt="divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7aa2f7,50:bb9af7,100:7dcfff&height=2&section=header" width="100%" alt="divider" />
 
 <!-- ░░░ 8 · CONNECT / FOOTER ░░░ -->
 <div align="center">
@@ -136,6 +136,6 @@ I'm a **software engineer** focused on building reliable **ERP / B2B platforms a
 <br/><br/>
 <sub><i>Thanks for stopping by — let's build something that lasts.</i></sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dcfff,50:bb9af7,100:7aa2f7&height=120&section=footer&animation=twinkling" alt="footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dcfff,50:bb9af7,100:7aa2f7&height=120&section=footer" alt="footer" width="100%" />
 
 </div>
