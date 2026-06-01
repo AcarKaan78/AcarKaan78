@@ -66,10 +66,7 @@
   </g>
 
   <!-- subtitle + blinking cursor -->
-  <text x="592" y="180" text-anchor="middle" font-size="16" letter-spacing="5" fill="#00F0FF" fill-opacity="0.88">// SOFTWARE ENGINEER · ERP · B2B · MOBILE · CLOUD</text>
-  <rect x="864" y="168" width="10" height="15" fill="#FCEE0A">
-    <animate attributeName="opacity" values="1;1;0;0" dur="1.05s" repeatCount="indefinite"/>
-  </rect>
+  <text x="600" y="180" text-anchor="middle" font-size="15" letter-spacing="4" fill="#00F0FF" fill-opacity="0.9">// FULL-STACK SOFTWARE ENGINEER · ERP · MOBILE · CLOUD</text>
 
   <!-- moving scan beam -->
   <rect x="0" y="-44" width="1200" height="44" fill="url(#beam)">

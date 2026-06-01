@@ -14,7 +14,7 @@
 
 <!-- ░░░ 2 · CYCLING TYPING SUBTITLE ░░░ -->
 <a href="https://acarsenel.tech">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=24&duration=2600&pause=700&color=00F0FF&center=true&vCenter=true&width=640&height=60&lines=Software+Engineer+%E2%80%94+ERP+%2F+B2B+%2F+Mobile;C%23+%2F+.NET+%C2%B7+PostgreSQL+%C2%B7+Docker;Edge+Computing+Researcher+(M.Sc.);Always+shipping%2C+always+learning" alt="typing subtitle" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=24&duration=2600&pause=700&color=00F0FF&center=true&vCenter=true&width=640&height=60&lines=Full-Stack+Software+Engineer+%E2%80%94+ERP+%2F+Mobile;C%23+%2F+.NET+%C2%B7+PostgreSQL+%C2%B7+Docker;Edge+Computing+Researcher+(M.Sc.);Always+shipping%2C+always+learning" alt="typing subtitle" />
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=AcarKaan78&label=PROFILE+VIEWS&color=FF2A6D&style=for-the-badge" alt="profile views" />
@@ -57,25 +57,56 @@ I'm a **software engineer** focused on building reliable **ERP / B2B platforms a
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=28&duration=2000&pause=800&color=FF2A6D&center=true&vCenter=true&width=520&height=44&lines=%24+cat+tech-stack.md" alt="$ cat tech-stack.md" />
 
-<br/><sub>**LANGUAGES & FRAMEWORKS**</sub><br/>
+<br/><sub>**LANGUAGES**</sub><br/>
 <img src="https://img.shields.io/badge/C%23-FF2A6D?style=for-the-badge&logo=csharp&logoColor=0D0208" alt="C#" />
-<img src="https://img.shields.io/badge/.NET-FF2A6D?style=for-the-badge&logo=dotnet&logoColor=0D0208" alt=".NET" />
 <img src="https://img.shields.io/badge/TypeScript-FF2A6D?style=for-the-badge&logo=typescript&logoColor=0D0208" alt="TypeScript" />
-<img src="https://img.shields.io/badge/React%20Native-FF2A6D?style=for-the-badge&logo=react&logoColor=0D0208" alt="React Native" />
+<img src="https://img.shields.io/badge/JavaScript-FF2A6D?style=for-the-badge&logo=javascript&logoColor=0D0208" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Python-FF2A6D?style=for-the-badge&logo=python&logoColor=0D0208" alt="Python" />
+<img src="https://img.shields.io/badge/Java-FF2A6D?style=for-the-badge&logo=openjdk&logoColor=0D0208" alt="Java" />
+<img src="https://img.shields.io/badge/C%2B%2B-FF2A6D?style=for-the-badge&logo=cplusplus&logoColor=0D0208" alt="C++" />
+<img src="https://img.shields.io/badge/Bash-FF2A6D?style=for-the-badge&logo=gnubash&logoColor=0D0208" alt="Bash" />
+<img src="https://img.shields.io/badge/SQL-FF2A6D?style=for-the-badge&logo=postgresql&logoColor=0D0208" alt="SQL" />
 
-<br/><sub>**DATA & PERSISTENCE**</sub><br/>
-<img src="https://img.shields.io/badge/PostgreSQL-00F0FF?style=for-the-badge&logo=postgresql&logoColor=0D0208" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/Redis-00F0FF?style=for-the-badge&logo=redis&logoColor=0D0208" alt="Redis" />
+<br/><sub>**BACKEND & APIs**</sub><br/>
+<img src="https://img.shields.io/badge/.NET%208-00F0FF?style=for-the-badge&logo=dotnet&logoColor=0D0208" alt=".NET 8" />
+<img src="https://img.shields.io/badge/ASP.NET%20Core-00F0FF?style=for-the-badge&logo=dotnet&logoColor=0D0208" alt="ASP.NET Core" />
+<img src="https://img.shields.io/badge/EF%20Core%20%2F%20LINQ-00F0FF?style=for-the-badge&logo=dotnet&logoColor=0D0208" alt="EF Core / LINQ" />
+<img src="https://img.shields.io/badge/Node.js-00F0FF?style=for-the-badge&logo=nodedotjs&logoColor=0D0208" alt="Node.js" />
+<img src="https://img.shields.io/badge/GraphQL-00F0FF?style=for-the-badge&logo=graphql&logoColor=0D0208" alt="GraphQL" />
+<img src="https://img.shields.io/badge/JWT%20%2F%20OAuth-00F0FF?style=for-the-badge&logo=jsonwebtokens&logoColor=0D0208" alt="JWT / OAuth" />
+<img src="https://img.shields.io/badge/Swagger-00F0FF?style=for-the-badge&logo=swagger&logoColor=0D0208" alt="Swagger / OpenAPI" />
 
-<br/><sub>**DEVOPS & TOOLING**</sub><br/>
-<img src="https://img.shields.io/badge/Docker-1a0410?style=for-the-badge&logo=docker&logoColor=00F0FF" alt="Docker" />
-<img src="https://img.shields.io/badge/Linux-1a0410?style=for-the-badge&logo=linux&logoColor=00F0FF" alt="Linux" />
-<img src="https://img.shields.io/badge/Git-1a0410?style=for-the-badge&logo=git&logoColor=00F0FF" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub%20Actions-1a0410?style=for-the-badge&logo=githubactions&logoColor=00F0FF" alt="GitHub Actions" />
+<br/><sub>**FRONTEND**</sub><br/>
+<img src="https://img.shields.io/badge/React-FCEE0A?style=for-the-badge&logo=react&logoColor=0D0208" alt="React" />
+<img src="https://img.shields.io/badge/React%20Native-FCEE0A?style=for-the-badge&logo=react&logoColor=0D0208" alt="React Native" />
+<img src="https://img.shields.io/badge/Next.js-FCEE0A?style=for-the-badge&logo=nextdotjs&logoColor=0D0208" alt="Next.js" />
+<img src="https://img.shields.io/badge/Tailwind%20CSS-FCEE0A?style=for-the-badge&logo=tailwindcss&logoColor=0D0208" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/WPF%20%2F%20XAML-FCEE0A?style=for-the-badge&logo=dotnet&logoColor=0D0208" alt="WPF / XAML" />
 
-<br/><sub>**CLOUD**</sub><br/>
-<img src="https://img.shields.io/badge/AWS-FCEE0A?style=for-the-badge&logo=amazonwebservices&logoColor=0D0208" alt="AWS" />
-<img src="https://img.shields.io/badge/Azure-FCEE0A?style=for-the-badge&logo=microsoftazure&logoColor=0D0208" alt="Azure" />
+<br/><sub>**DATA & MESSAGING**</sub><br/>
+<img src="https://img.shields.io/badge/PostgreSQL-1a0410?style=for-the-badge&logo=postgresql&logoColor=00F0FF" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/MySQL-1a0410?style=for-the-badge&logo=mysql&logoColor=00F0FF" alt="MySQL" />
+<img src="https://img.shields.io/badge/MongoDB-1a0410?style=for-the-badge&logo=mongodb&logoColor=00F0FF" alt="MongoDB" />
+<img src="https://img.shields.io/badge/Redis-1a0410?style=for-the-badge&logo=redis&logoColor=00F0FF" alt="Redis" />
+<img src="https://img.shields.io/badge/RabbitMQ-1a0410?style=for-the-badge&logo=rabbitmq&logoColor=00F0FF" alt="RabbitMQ" />
+<img src="https://img.shields.io/badge/Apache%20Kafka-1a0410?style=for-the-badge&logo=apachekafka&logoColor=00F0FF" alt="Apache Kafka" />
+
+<br/><sub>**CLOUD & DEVOPS**</sub><br/>
+<img src="https://img.shields.io/badge/AWS-1a0410?style=for-the-badge&logo=amazonwebservices&logoColor=FCEE0A" alt="AWS" />
+<img src="https://img.shields.io/badge/Azure-1a0410?style=for-the-badge&logo=microsoftazure&logoColor=FCEE0A" alt="Azure" />
+<img src="https://img.shields.io/badge/Docker-1a0410?style=for-the-badge&logo=docker&logoColor=FCEE0A" alt="Docker" />
+<img src="https://img.shields.io/badge/Kubernetes-1a0410?style=for-the-badge&logo=kubernetes&logoColor=FCEE0A" alt="Kubernetes" />
+<img src="https://img.shields.io/badge/Git-1a0410?style=for-the-badge&logo=git&logoColor=FCEE0A" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-1a0410?style=for-the-badge&logo=githubactions&logoColor=FCEE0A" alt="GitHub Actions" />
+
+<br/><sub>**ARCHITECTURE & TESTING**</sub><br/>
+<img src="https://img.shields.io/badge/Clean%20Architecture-2a1530?style=for-the-badge" alt="Clean Architecture" />
+<img src="https://img.shields.io/badge/SOLID%20%2F%20DI-2a1530?style=for-the-badge" alt="SOLID / DI" />
+<img src="https://img.shields.io/badge/Microservices-2a1530?style=for-the-badge" alt="Microservices" />
+<img src="https://img.shields.io/badge/CQRS%20%2F%20MediatR-2a1530?style=for-the-badge" alt="CQRS / MediatR" />
+<img src="https://img.shields.io/badge/DDD-2a1530?style=for-the-badge" alt="DDD" />
+<img src="https://img.shields.io/badge/xUnit%20%2F%20Moq-2a1530?style=for-the-badge" alt="xUnit / Moq" />
+<img src="https://img.shields.io/badge/TDD-2a1530?style=for-the-badge" alt="TDD" />
 
 </div>
 
@@ -110,7 +141,7 @@ I'm a **software engineer** focused on building reliable **ERP / B2B platforms a
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=28&duration=2000&pause=800&color=FF2A6D&center=true&vCenter=true&width=480&height=44&lines=%24+.%2Fsnake.sh" alt="$ ./snake.sh" />
 
-<img src="https://raw.githubusercontent.com/AcarKaan78/AcarKaan78/output/github-contribution-grid-snake-dark.svg?v=neon3" alt="contribution snake" width="100%" />
+<img src="https://raw.githubusercontent.com/AcarKaan78/AcarKaan78/output/github-contribution-grid-snake-dark.svg?v=neon4" alt="contribution snake" width="100%" />
 
 </div>
 
