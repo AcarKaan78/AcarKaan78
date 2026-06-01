@@ -10,7 +10,7 @@
 <!-- ░░░ 1 · SELF-HOSTED GLITCH BANNER ░░░ -->
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/AcarKaan78/AcarKaan78/main/assets/banner.svg?v=1" width="100%" alt="Acar Senel — Software Engineer" />
+<img src="https://raw.githubusercontent.com/AcarKaan78/AcarKaan78/main/assets/banner.svg?v=2" width="100%" alt="Acar Senel — Software Engineer" />
 
 <!-- ░░░ 2 · CYCLING TYPING SUBTITLE ░░░ -->
 <a href="https://acarsenel.tech">

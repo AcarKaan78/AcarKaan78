@@ -53,16 +53,16 @@
   <rect x="0" y="298" width="1200" height="2" fill="#FF2A6D" fill-opacity="0.7"/>
 
   <!-- glitch name: cyan + magenta offset layers under a bright core -->
-  <g font-size="86" font-weight="bold" letter-spacing="12" text-anchor="middle">
-    <text x="600" y="138" fill="#00F0FF" fill-opacity="0.9">ACAR SENEL
+  <g font-size="68" font-weight="bold" letter-spacing="10" text-anchor="middle">
+    <text x="600" y="138" fill="#00F0FF" fill-opacity="0.9">ACAR KAAN SENEL
       <animateTransform attributeName="transform" type="translate" dur="2.8s" repeatCount="indefinite"
         values="0 0; -4 0; 0 0; 3 0; 0 0; -2 1; 0 0; 0 0" keyTimes="0;0.04;0.09;0.16;0.22;0.5;0.55;1"/>
     </text>
-    <text x="600" y="138" fill="#FF2A6D" fill-opacity="0.9">ACAR SENEL
+    <text x="600" y="138" fill="#FF2A6D" fill-opacity="0.9">ACAR KAAN SENEL
       <animateTransform attributeName="transform" type="translate" dur="2.8s" repeatCount="indefinite"
         values="0 0; 4 0; 0 0; -3 0; 0 0; 2 -1; 0 0; 0 0" keyTimes="0;0.04;0.09;0.16;0.22;0.5;0.55;1"/>
     </text>
-    <text x="600" y="138" fill="#F5FAFF">ACAR SENEL</text>
+    <text x="600" y="138" fill="#F5FAFF">ACAR KAAN SENEL</text>
   </g>
 
   <!-- subtitle + blinking cursor -->
