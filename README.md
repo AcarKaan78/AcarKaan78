@@ -7,6 +7,8 @@
 ═══════════════════════════════════════════════════════════════════════════════
 -->
 
+<!-- ++ The Omnissiah provides. Praise the machine. The flesh is weak; the code endures. ++ -->
+
 <!-- ░░░ 1 · SELF-HOSTED GLITCH BANNER ░░░ -->
 <div align="center">
 
@@ -19,6 +21,8 @@
 
 <img src="https://komarev.com/ghpvc/?username=AcarKaan78&label=PROFILE+VIEWS&color=FF2A6D&style=for-the-badge&abbreviated=false&base=0" alt="profile views" />
 
+<br/><sub><code>01001101</code> &nbsp;·&nbsp; the flesh is weak, the code endures</sub>
+
 </div>
 
 <img src="https://raw.githubusercontent.com/AcarKaan78/AcarKaan78/main/assets/divider.svg" width="100%" alt="divider" />
@@ -26,7 +30,7 @@
 <!-- ░░░ 3 · ABOUT ░░░ -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=28&duration=2000&pause=800&color=FF2A6D&center=true&vCenter=true&width=480&height=44&lines=%24+whoami" alt="$ whoami" />
+⚙ &nbsp;<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=28&duration=2000&pause=800&color=FF2A6D&center=true&vCenter=true&width=480&height=44&lines=%24+whoami" alt="$ whoami" />
 
 </div>
 
@@ -115,7 +119,7 @@ I'm a **software engineer** focused on building reliable **ERP / B2B platforms a
 <!-- ░░░ 5 · STATS / STREAK ░░░ -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=28&duration=2000&pause=800&color=FF2A6D&center=true&vCenter=true&width=520&height=44&lines=%24+git+--stats" alt="$ git --stats" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=28&duration=2000&pause=800&color=FF2A6D&center=true&vCenter=true&width=560&height=44&lines=%24+cogitator+--status" alt="$ cogitator --status" />
 
 <br/>
 
@@ -162,6 +166,10 @@ I'm a **software engineer** focused on building reliable **ERP / B2B platforms a
 </a>
 
 <br/><br/>
+<sub><b>++ TRANSMISSION ENDS ++</b></sub>
+
+<br/>
+
 <sub><i>Thanks for stopping by — let's build something that lasts.</i></sub>
 
 </div>
