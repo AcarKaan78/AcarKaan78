@@ -30,7 +30,7 @@
 <!-- ░░░ 3 · ABOUT ░░░ -->
 <div align="center">
 
-⚙ &nbsp;<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=28&duration=2000&pause=800&color=FF2A6D&center=true&vCenter=true&width=480&height=44&lines=%24+whoami" alt="$ whoami" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=28&duration=2000&pause=800&color=FF2A6D&center=true&vCenter=true&width=480&height=44&lines=%24+whoami" alt="$ whoami" />
 
 </div>
 
