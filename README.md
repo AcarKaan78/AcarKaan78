@@ -78,27 +78,12 @@ Greetings, traveler of the noosphere. I am a **software engineer** who treats sy
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8b0000,50:c1121f,100:f0a500&height=3&section=header" width="100%" alt="divider" />
 
-<!-- ░░░ 5 · STATS + TOP LANGS ░░░ -->
+<!-- ░░░ 5 · STREAK ░░░ -->
 ## 📡 &nbsp; Cogitator Telemetry
 
 <div align="center">
 
-<table border="0" cellspacing="0" cellpadding="0"><tr><td>
-
-<img src="https://github-readme-stats.vercel.app/api?username=AcarKaan78&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&rank_icon=percentile&title_color=F0A500&icon_color=C1121F&text_color=C9C9C9&bg_color=0D0D0D" alt="stats" height="170" />
-
-</td><td>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AcarKaan78&layout=compact&hide_border=true&langs_count=8&title_color=F0A500&text_color=C9C9C9&bg_color=0D0D0D" alt="top languages" height="170" />
-
-</td></tr></table>
-
-<!-- ░░░ 6 · STREAK ░░░ -->
-<img src="https://streak-stats.demolab.com?user=AcarKaan78&hide_border=true&background=0D0D0D&stroke=8B0000&ring=C1121F&fire=F0A500&currStreakNum=F0A500&sideNums=C9C9C9&currStreakLabel=C1121F&sideLabels=C9C9C9&dates=8B7355&excludeDaysLabel=8B7355" alt="streak" height="170" />
-
-<!-- ░░░ trophies ░░░ -->
-<br/><br/>
-<img src="https://github-profile-trophy.vercel.app/?username=AcarKaan78&theme=gruvbox&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies" />
+<img src="https://streak-stats.demolab.com?user=AcarKaan78&hide_border=true&background=0D0D0D&stroke=8B0000&ring=C1121F&fire=F0A500&currStreakNum=F0A500&sideNums=C9C9C9&currStreakLabel=C1121F&sideLabels=C9C9C9&dates=8B7355&excludeDaysLabel=8B7355" alt="streak" height="195" />
 
 </div>
 
