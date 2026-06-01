@@ -21,7 +21,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=AcarKaan78&label=PROFILE+VIEWS&color=FF2A6D&style=for-the-badge&abbreviated=false&base=0" alt="profile views" />
 
-<br/><sub><code>01001101</code> &nbsp;·&nbsp; the flesh is weak, the code endures</sub>
+<br/><sub><code>01000001 01000011 01000001 01010010</code> &nbsp;·&nbsp; decode me</sub>
 
 </div>
 
